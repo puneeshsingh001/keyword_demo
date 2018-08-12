@@ -6,6 +6,7 @@
 
 *** Test Cases ***
 Test Case1
+    [Tags]  Test Case 1
     Do Something
     Do Something Else
 
