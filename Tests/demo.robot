@@ -27,7 +27,8 @@ Do Something Else
 Do Another Thing
     log  I am doing another thing..
 
-
+Feature 1 Test
+    log  feature 1 testing
 
 
 
