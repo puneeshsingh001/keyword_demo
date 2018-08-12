@@ -11,6 +11,7 @@ Test Case1
     Do Something Else
 
 Test Case2
+    [Tag]  Test Case 2
     Do Another Thing
     Do Something Else
 
