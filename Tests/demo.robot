@@ -7,7 +7,7 @@ Documentation  This test case is for keyword demo
 
 *** Test Cases ***
 Test Case1
-    [Tags]  Test Case 1
+    [Tags]  Test Case 1 Demo exercise
     Do Something
     Do Something Else
 
